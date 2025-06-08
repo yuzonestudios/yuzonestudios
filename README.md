@@ -37,7 +37,7 @@ We are **not just developers** — we are problem-solvers, innovators, and visio
 
 | Project             | Description                                          | Status        |
 |---------------------|------------------------------------------------------|---------------|
-| `YUZONE AI`         | Smart AI chatbot with memory, login, chat history    | 🧠 Active     |
+| `YUZONE AI`         | Smart AI chatbot    | 🧠 Active     |
 | `YUZONE CLOUD`      | Cloud-based content delivery with smart linking      | ☁️ Coming Soon |
 | `YUZONE LMS`        | Learning system with content & performance tracking  | 📚 In Progress |
 | `YUZONE CAPTCHA`    | Custom AI-backed verification system                 | 🔐 Building    |
