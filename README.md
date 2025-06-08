@@ -4,7 +4,7 @@
 
 ---
 
-![YUZONE STUDIOS Banner]([https://your-image-link.com/banner.png](https://archive.org/download/yuzone-banner/YuzoneBanner.png)) <!-- Optional banner -->
+![YUZONE STUDIOS Banner]([https://your-image-link.com/banner.png](https://archive.org/download/yuzone-banner/YuzoneBanner.png) <!-- Optional banner -->
 
 ## 🌟 Who We Are
 
