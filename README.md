@@ -4,7 +4,7 @@
 
 ---
 
-![YUZONE STUDIOS Banner]([https://your-image-link.com/banner.png](https://archive.org/download/yuzone-banner/YuzoneBanner.png) <!-- Optional banner -->
+![YUZONE STUDIOS Banner](https://ia601207.us.archive.org/22/items/yuzone-banner/YuzoneBanner.png)
 
 ## 🌟 Who We Are
 
@@ -35,12 +35,12 @@ We are **not just developers** — we are problem-solvers, innovators, and visio
 
 ## 🚧 Featured Projects
 
-| Project             | Description                                      | Status        |
-|---------------------|--------------------------------------------------|---------------|
-| `YUZONE AI`         | Smart AI chatbot with memory, login, chat history | 🧠 Active     |
-| `YUZONE CLOUD`      | Cloud-based content delivery with smart linking   | ☁️ Coming Soon |
-| `YUZONE LMS`        | Learning system with content & performance tracking | 📚 In Progress |
-| `YUZONE CAPTCHA`    | Custom AI-backed verification system              | 🔐 Building    |
+| Project             | Description                                          | Status        |
+|---------------------|------------------------------------------------------|---------------|
+| `YUZONE AI`         | Smart AI chatbot with memory, login, chat history    | 🧠 Active     |
+| `YUZONE CLOUD`      | Cloud-based content delivery with smart linking      | ☁️ Coming Soon |
+| `YUZONE LMS`        | Learning system with content & performance tracking  | 📚 In Progress |
+| `YUZONE CAPTCHA`    | Custom AI-backed verification system                 | 🔐 Building    |
 
 ---
 
@@ -73,4 +73,4 @@ We don’t follow trends — we **create** them.
 
 ---
 
-> Made with ⚡ by **Yashpal Kumar** & **Pranab Saini**and the creative team at **YUZONE STUDIOS** & **SMG interactive**
+> Made with ⚡ by **Yashpal Kumar** & **Pranab Saini**, and the creative team at **YUZONE STUDIOS** & **SMG Interactive**
