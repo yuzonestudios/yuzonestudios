@@ -73,4 +73,4 @@ We don’t follow trends — we **create** them.
 
 ---
 
-> Made with ⚡ by **Yashpal Kumar** & **Pranab Saini**, and the creative team at **YUZONE STUDIOS** & **SMG Interactive**
+> Made with ⚡ by **Pranab Saini**, and the creative team at **YUZONE STUDIOS** & **SMG Interactive**
