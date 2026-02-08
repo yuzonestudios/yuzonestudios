@@ -78,11 +78,3 @@ Built by young minds. Designed for the future.
 
 Built with ⚡ by Pranab Saini & Agnibha Mukherjee
 YUZONE STUDIOS in collaboration with Reposphere
-
-If you want, the next step could be:
-
-making your role sound more AI-heavy
-
-adding a “Why Trust Us?” section
-
-rewriting this specifically for GitHub / Reddit / landing page
